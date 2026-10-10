@@ -16,8 +16,8 @@ Fictional tools and records. No model call, provider call, or spending. This doe
 
 Building Roster keeps making the same point concrete: an available tool is not blanket permission to disclose.
 
-Article: [verified DEV URL will be inserted after approval]
-Code: [verified public GitHub URL will be inserted after approval]
+Article: https://dev.to/bobbyhalljr/your-agent-bought-a-tool-who-got-your-data-257g
+Code: https://github.com/bobbyhalljr/agent-data-release-gate
 
 # X thread preview
 
@@ -35,5 +35,5 @@ Tool access is not data release permission.
 
 3. Fictional tools and records. No API call or spending. Labels can be wrong; a real dispatcher must enforce the checked projection and destination.
 
-[DEV_URL]
-[GITHUB_URL]
+https://dev.to/bobbyhalljr/your-agent-bought-a-tool-who-got-your-data-257g
+https://github.com/bobbyhalljr/agent-data-release-gate

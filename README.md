@@ -2,7 +2,7 @@
 
 A dependency-free TypeScript example accompanying the pending article **Your Agent Bought a Tool. Who Got Your Data?**
 
-Article: approved for publication; live article URL will be added after DEV publication.
+Article: [Your Agent Bought a Tool. Who Got Your Data?](https://dev.to/bobbyhalljr/your-agent-bought-a-tool-who-got-your-data-257g)
 
 ## Purpose
 
@@ -41,4 +41,3 @@ This validates proposals, not the trusted policy/store inputs. No authentication
 - [October 8 launch](https://composio.dev/blog/composio-instant)
 - [Instant Tools docs, checked October 10](https://docs.composio.dev/docs/instant-tools)
 - [Node TypeScript execution](https://nodejs.org/api/typescript.html)
-
