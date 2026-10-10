@@ -1,0 +1,34 @@
+
+> test
+> node --experimental-strip-types test.ts
+
+ok 1 - public projection allowed
+ok 2 - only selected values leave
+ok 3 - trusted recipient returned
+ok 4 - credential source is explicit
+ok 5 - internal input denied for research route
+ok 6 - restricted input denied for research route
+ok 7 - connected route allows internal input
+ok 8 - connected route still denies restricted input
+ok 9 - cross tenant public data denied
+ok 10 - mixed tenant batch returns no partial payload
+ok 11 - unknown tool denied
+ok 12 - prototype tool denied
+ok 13 - unapproved recipient denied
+ok 14 - task tool restriction enforced
+ok 15 - task field restriction enforced
+ok 16 - unknown record denied
+ok 17 - unknown field denied
+ok 18 - free text arguments rejected
+ok 19 - model cannot relabel data
+ok 20 - empty record list rejected
+ok 21 - duplicate field rejected
+ok 22 - nonstring identifier rejected
+ok 23 - batch limit enforced
+ok 24 - null proposal rejected
+ok 25 - caller proposal is not mutated
+25/25 checks passed
+publicSearch: ALLOW recipient=research-provider credential=instant fields=company,domain
+privateSearch: DENY data-class-not-approved
+connectedNotes: ALLOW recipient=tenant-crm credential=connected fields=notes
+crossTenant: DENY tenant-mismatch
